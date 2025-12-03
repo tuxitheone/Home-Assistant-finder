@@ -182,16 +182,17 @@ homeassistant-autofinder/
 ---
 
 ## 📜 License
+Released under the MIT License.  
+See `LICENSE` for details.
 
-MIT License
+## 🐛 Issues / PRs
+Har du idéer, fejl eller ønsker?  
+Opret en issue eller pull request i repoet.
 
 ---
 
-## 💡 Idéer til videreudvikling
+Developed & maintained by **TuxiNet.dk**  
+Creative Technologist | Home Automation & Embedded Systems Specialist  
+https://tuxinet.dk
 
-- Tilføje scanning af flere porte (fx HTTPS, add-ons osv.)
-- Enkel web-UI der viser scanning live
-- Docker-version der kan køre i container
-- Mulighed for at angive subnet manuelt via argumenter
-
-PR’er og forks er naturligvis velkomne 🙂
+Tak fordi du bruger projektet – god fornøjelse! 🚀  
